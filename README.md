@@ -2,7 +2,15 @@
 
 Formerly **Pimpmuckl** from my Esports days. It's a play on word from Pimp My Ride and Pumuckl. It's funny in German. Mkay.
 
-## Things I do
+## Herdr plugins
+
+Independent plugins for [Herdr](https://github.com/herdrdev/herdr), collected in [herdr-plugins](https://github.com/JJLiebig/herdr-plugins):
+
+- **[GitHub Tools](https://github.com/JJLiebig/herdr-plugins/tree/master/github-tools)** — Shows pull-request status in Herdr's Spaces sidebar and opens the current repository or PR.
+- **[Simple Dispatch](https://github.com/JJLiebig/herdr-plugins/tree/master/simple-dispatch)** — Starts isolated agent workflows from issues, PRs, or feature requests.
+- **[Herdr Stream Deck+](https://github.com/JJLiebig/herdr-plugins/tree/master/stream-deck)** — Physical triage and control for Herdr on Stream Deck+.
+
+## Codex tools
 
 - **[Codex++](https://github.com/JJLiebig/codex)** — My fork of OpenAI Codex, with multi-account support, safer automation, and improvements for long-running sessions.
 - **[Review Suite](https://github.com/JJLiebig/review-suite)** — Code review workflows for Codex, with fix verification and validation tracking.
