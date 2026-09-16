@@ -7,7 +7,7 @@ Formerly **Pimpmuckl** from my Esports days. It's a play on word from Pimp My Ri
 [Herdr](https://github.com/herdrdev/herdr) is incredible so I made a few things, all collected in [herdr-plugins](https://github.com/JJLiebig/herdr-plugins):
 
 - **[GitHub Tools](https://github.com/JJLiebig/herdr-plugins/tree/master/github-tools)** — Shows pull-request status in Herdr's Spaces sidebar and opens the current repository or PR.
-![Herdr Pull Request Status](assets/github-tools-small.png)
+![Herdr Pull Request Status](assets/github-tools.mp4)
 - **[Simple Dispatch](https://github.com/JJLiebig/herdr-plugins/tree/master/simple-dispatch)** — Starts isolated agent workflows from issues, PRs, or feature requests.
 - **[Herdr Stream Deck+](https://github.com/JJLiebig/herdr-plugins/tree/master/stream-deck)** — Physical triage and control for Herdr on Stream Deck+.
 
