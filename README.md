@@ -1,8 +1,8 @@
 # JJ Liebig
 
-Formerly **Pimpmuckl**. Same person, new handle.
+Formerly **Pimpmuckl** from my Esports days. It's a play on word from Pimp My Ride and Pumuckl. It's funny in German. Mkay.
 
-## Tools I work on
+## Things I do
 
 - **[Codex++](https://github.com/JJLiebig/codex)** — My fork of OpenAI Codex, with multi-account support, safer automation, and improvements for long-running sessions.
 - **[Review Suite](https://github.com/JJLiebig/review-suite)** — Code review workflows for Codex, with fix verification and validation tracking.
